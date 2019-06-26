@@ -1,0 +1,7 @@
+{
+   "pack":{
+      "pack_format":3,
+      "description":"talk about your resource pack here"
+      "_comment": "Note for pack authors: A pack_format of 3 should be used with Minecraft version 1.11 and later. All resources, including language files, should be lowercase (eg: en_us.lang)."
+   }
+}

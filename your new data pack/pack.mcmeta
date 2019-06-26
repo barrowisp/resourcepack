@@ -1,0 +1,7 @@
+{
+   "pack":{
+      "pack_format": ,
+      "description":"talk about your data pack here"
+      "_comment": "For DATA packs, pack_format is currently neither enforced nor used.  For RESOURCE packs, a pack_format of 3 should be used with Minecraft version 1.11-1.12, and 4 should be used with 1.13."
+   }
+}

@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": 
+	[
+		"namespace:function1",
+		"namespace:function2",
+		"namespace:function3"
+	]
+}

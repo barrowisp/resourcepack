@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": 
+	[
+		"namespace:block1",
+		"namespace:block2",
+		"namespace:block3"
+	]
+}

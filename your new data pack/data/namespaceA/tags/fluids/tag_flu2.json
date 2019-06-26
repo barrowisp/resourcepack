@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": 
+	[
+		"namespace:fluid1",
+		"namespace:fluid2",
+		"namespace:fluid3"
+	]
+}

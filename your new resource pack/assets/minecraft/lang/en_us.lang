@@ -1,0 +1,16 @@
+language.name=English
+language.region=Canada
+
+options.difficulty=Difficulty
+options.difficulty.peaceful=No danger
+options.difficulty.easy=Gentle
+options.difficulty.normal=Normal
+options.difficulty.hard=Hard
+options.difficulty.hardcore=No Revives
+
+key.sprint=Run
+key.left=Strafe Left
+key.right=Diagonal Right
+
+key.swapHands=Exchange Item In Hands
+key.sneak=Crouch
